@@ -1,6 +1,6 @@
 # Interfacing DS18B20 with Arduino and ESP8266
 
-![alt text](https://github.com/Himanishkumar/Test2/blob/master/2.PNG)
+![alt text](https://github.com/akarsh98/DS18B20-ESP8266-Arduino/blob/master/images/2.PNG)
 
 Video tutorial : 
 
@@ -16,15 +16,15 @@ You get 10 good quality PCBs manufactured and shipped to your doorstep for cheap
 Check out their online [Gerber viewer](https://www.pcbway.com/project/OnlineGerberViewer.html) function. With reward points you can get free stuff from their [gift shop](https://www.pcbway.com/project/gifts.html).
 ![alt text](https://github.com/akarsh98/Controlling-ESP8266-with-Alexa/blob/master/images/pcbway.JPG?raw=true)
 
-![alt text](https://github.com/Himanishkumar/Test2/blob/master/7.PNG)
+![alt text](https://github.com/akarsh98/DS18B20-ESP8266-Arduino/blob/master/images/8.PNG)
 
-![alt text](https://github.com/Himanishkumar/Test2/blob/master/10.PNG)
+![alt text](https://github.com/akarsh98/DS18B20-ESP8266-Arduino/blob/master/images/14.PNG)
 
 
 
 ### These are the schematics for this project:
 Schematic for Arduino UNO
-![alt text](https://github.com/Himanishkumar/Test2/blob/master/arduino_18b20.png)
+![alt text](https://github.com/akarsh98/DS18B20-ESP8266-Arduino/blob/master/images/5.png)
                                     
 Schematic for ESP8266
-![alt text](https://github.com/Himanishkumar/Test2/blob/master/esp_18b20(1).png)
+![alt text](https://github.com/akarsh98/DS18B20-ESP8266-Arduino/blob/master/images/10.png)
